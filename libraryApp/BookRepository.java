@@ -8,11 +8,12 @@ public class BookRepository {
 	
 	//Constructor to initialize books
 	public BookRepository(){
-		books.add(new Book(25390,"Pride and Prejudice C", "Jane Austen", "Love",10,7));
-		books.add(new Book(39520,"Programming in ANSI C", "E. Balagurusamy", "Educational",15,10));
-		books.add(new Book(75332,"Shrimad Bhagavad Gita", "Krishna Dvaipayana", "Motivational",20,18));
-		books.add(new Book(93514,"Java: The Complete Reference", "Herbert Schildt", "Educational",12,9));
-		books.add(new Book(45990,"It", "Stephan King", "Horror",7,5));
+		books.add(new Book(253910,"Pride and Prejudice C", "Jane Austen", "Love",10,7));
+		books.add(new Book(391520,"Programming in ANSI C", "E. Balagurusamy", "Educational",15,10));
+		books.add(new Book(715332,"Shrimad Bhagavad Gita", "Krishna Dvaipayana", "Motivational",20,18));
+		books.add(new Book(935141,"Java: The Complete Reference", "Herbert Schildt", "Educational",12,9));
+		books.add(new Book(459901,"It", "Stephan King", "Horror",7,5));
+		books.add(new Book(855141,"Disneyland", "Mickey & Minnie", "Love",10,3));
 	}
 	
 	
